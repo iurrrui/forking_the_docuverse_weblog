@@ -4,7 +4,7 @@
  <title>Forking the Docuverse Weblog</title>
  <link href="/forking_the_docuverse_weblog/atom.xml" rel="self"/>
  <link href="/forking_the_docuverse_weblog/"/>
- <updated>2022-08-23T14:28:07+02:00</updated>
+ <updated>2025-11-26T11:38:38+01:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -740,7 +740,7 @@ In the image below, in addition to the left-bracket link, the title, the link, t
 &lt;ul&gt;
   &lt;li&gt;The title underline is deemed too subtle to indicate multiple aliases of the same document.
     &lt;ul&gt;
-      &lt;li&gt;Color-coded borders might be better suited.&lt;sup id=&quot;fnref:color_code_problem&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:color_code_problem&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+      &lt;li&gt;Color-coded borders might be better suited.&lt;sup id=&quot;fnref:color_code_problem&quot;&gt;&lt;a href=&quot;#fn:color_code_problem&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
       &lt;li&gt;The color-coded borders should also appear upon hovering a document in Zoomed-Out View for coherency.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -761,7 +761,7 @@ In the image below, in addition to the left-bracket link, the title, the link, t
 &lt;h2 id=&quot;endnotes&quot;&gt;Endnotes&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:color_code_problem&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:color_code_problem&quot;&gt;
       &lt;p&gt;…though once there are more documents, there will be too many indistinguishable colors. &lt;a href=&quot;#fnref:color_code_problem&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -774,7 +774,7 @@ In the image below, in addition to the left-bracket link, the title, the link, t
    <link href="/forking_the_docuverse_weblog/13"/>
    <updated>2021-12-16T00:00:00+01:00</updated>
    <id>/13</id>
-   <content type="html">&lt;p&gt;Both the reader and writer of a document can map structures.&lt;sup id=&quot;fnref:computational_methods&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:computational_methods&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Attaching links or metadata to documents to establish connections between them results in multisequential structures, or “interconnective structure[s]” (Nelson 1987). There may be an intended content-item-by-content-item sequence, in conventional terms, paragraph-by-paragraph, list-item-by-list-item, and so on. Several other structures also exist and can be (and usually are) mapped.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Both the reader and writer of a document can map structures.&lt;sup id=&quot;fnref:computational_methods&quot;&gt;&lt;a href=&quot;#fn:computational_methods&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Attaching links or metadata to documents to establish connections between them results in multisequential structures, or “interconnective structure[s]” (Nelson 1987). There may be an intended content-item-by-content-item sequence, in conventional terms, paragraph-by-paragraph, list-item-by-list-item, and so on. Several other structures also exist and can be (and usually are) mapped.&lt;/p&gt;
 
 &lt;p&gt;For example, in conventional terms, the order of a set of chapters and subchapters is the sequential order intended by the writer.&lt;/p&gt;
 
@@ -784,7 +784,7 @@ In the image below, in addition to the left-bracket link, the title, the link, t
   &lt;p&gt;It should be noted, furthermore, that while a novel on paper is far from being automatically linear, a hypertext is not necessarily nonlinear. The pages or segments may be rigorously sequential, forcing the reader to read them in a fixed order, one even more fixed than that of the pages of a book, because it is always possible to open a book to any page one wishes while a hypertext can be programmed to totally control the reader’s path. This said, hypertext by nature lends itself ideally to a variety of reading paths and to multisequential navigation. (Vandendorpe 2009)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The digital document system should allow arranging not only content items but also documents in sequential order, with the possibility of showing and hiding sequences. To that end, a third link type called &lt;em&gt;seqlinks&lt;/em&gt; will be developed.&lt;sup id=&quot;fnref:seqlink&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:seqlink&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The digital document system should allow arranging not only content items but also documents in sequential order, with the possibility of showing and hiding sequences. To that end, a third link type called &lt;em&gt;seqlinks&lt;/em&gt; will be developed.&lt;sup id=&quot;fnref:seqlink&quot;&gt;&lt;a href=&quot;#fn:seqlink&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;14&quot;&gt;next entry&lt;/a&gt; further explores traversing documents in Zoomed-Out View and Zoomed-In View.&lt;/p&gt;
 
@@ -795,10 +795,10 @@ In the image below, in addition to the left-bracket link, the title, the link, t
 &lt;h2 id=&quot;endnotes&quot;&gt;Endnotes&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:computational_methods&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:computational_methods&quot;&gt;
       &lt;p&gt;As noted in &lt;a href=&quot;03&quot;&gt;entry 03&lt;/a&gt;, computational methods, such as applying natural language processing techniques for classifying text and keyword extraction, are not excluded. &lt;a href=&quot;#fnref:computational_methods&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:seqlink&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:seqlink&quot;&gt;
       &lt;p&gt;&lt;em&gt;Seqlinks&lt;/em&gt; are introduced in &lt;a href=&quot;&quot;&gt;entry &lt;/a&gt;. &lt;a href=&quot;#fnref:seqlink&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -819,7 +819,7 @@ In the image below, in addition to the left-bracket link, the title, the link, t
 
 &lt;p&gt;&lt;img src=&quot;assets/coded_colors.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In the top-left corner in the image above, the blue color-coding and shape of the link indicate that the word “modality” in the middle document is linked to the entire side document. In the bottom-right of the image, the green color coding and shape of the link indicate that only parts of each document are linked.&lt;sup id=&quot;fnref:version_1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:version_1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;In the top-left corner in the image above, the blue color-coding and shape of the link indicate that the word “modality” in the middle document is linked to the entire side document. In the bottom-right of the image, the green color coding and shape of the link indicate that only parts of each document are linked.&lt;sup id=&quot;fnref:version_1&quot;&gt;&lt;a href=&quot;#fn:version_1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Verison 2&lt;/strong&gt;&lt;/p&gt;
 
@@ -840,7 +840,7 @@ In the image below, in addition to the left-bracket link, the title, the link, t
 &lt;p&gt;The &lt;a href=&quot;13&quot;&gt;next entry&lt;/a&gt; reflects on the potential of the link types developed so far.&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:version_1&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:version_1&quot;&gt;
       &lt;p&gt;Having multiple colors throughout the main document may become distracting. &lt;a href=&quot;#fnref:version_1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -1021,7 +1021,7 @@ In the image below, in addition to the left-bracket link, the title, the link, t
 
 &lt;p&gt;&lt;em&gt;Image source: Nelson (2016)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;As discussed in &lt;a href=&quot;03&quot;&gt;entry 03&lt;/a&gt;, working with documents side-by-side and visual links is beneficial. One of the benefits is that content included in one document from another (i.e., transclusion) is directly and visually available for cross-examination. Direct access to the original context enables the ability to assess whether the meaning conveyed in the original document has been misconstrued in other documents. On the Web, links are one-directional, and the linked documents (if at all) take the form of previews (of the &lt;em&gt;web page&lt;/em&gt;, not a particular content item)&lt;sup id=&quot;fnref:links_on_the_web&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:links_on_the_web&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; as the cursor hovers on a hyperlink.&lt;/p&gt;
+&lt;p&gt;As discussed in &lt;a href=&quot;03&quot;&gt;entry 03&lt;/a&gt;, working with documents side-by-side and visual links is beneficial. One of the benefits is that content included in one document from another (i.e., transclusion) is directly and visually available for cross-examination. Direct access to the original context enables the ability to assess whether the meaning conveyed in the original document has been misconstrued in other documents. On the Web, links are one-directional, and the linked documents (if at all) take the form of previews (of the &lt;em&gt;web page&lt;/em&gt;, not a particular content item)&lt;sup id=&quot;fnref:links_on_the_web&quot;&gt;&lt;a href=&quot;#fn:links_on_the_web&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; as the cursor hovers on a hyperlink.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/wikipedia_hover_preview.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -1076,7 +1076,7 @@ An improvement would be landing at the particular linked part of a document:
 &lt;h2 id=&quot;endnotes&quot;&gt;Endnotes&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:links_on_the_web&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:links_on_the_web&quot;&gt;
       &lt;p&gt;Traversing content on the Web by selecting hyperlinks commonly entails blindly &lt;em&gt;jumping&lt;/em&gt; and landing at the top of the page: &lt;a href=&quot;#fnref:links_on_the_web&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -1146,7 +1146,7 @@ An improvement would be landing at the particular linked part of a document:
   &lt;li&gt;Labels can be attached to links (called &lt;em&gt;taglinks&lt;/em&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;While in Inventory View, selecting a node opens a document. Selecting another node will close the already-open document and open the other. There are two versions of how this might look and work.&lt;sup id=&quot;fnref:browser_bookmark&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:browser_bookmark&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;While in Inventory View, selecting a node opens a document. Selecting another node will close the already-open document and open the other. There are two versions of how this might look and work.&lt;sup id=&quot;fnref:browser_bookmark&quot;&gt;&lt;a href=&quot;#fn:browser_bookmark&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;from-inventory-view-to-lateral-mode&quot;&gt;From Inventory View to Lateral Mode&lt;/h2&gt;
 
@@ -1228,7 +1228,7 @@ An improvement would be landing at the particular linked part of a document:
 &lt;h2 id=&quot;endnotes&quot;&gt;Endnotes&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:browser_bookmark&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:browser_bookmark&quot;&gt;
       &lt;p&gt;This is similar to when selecting a website URL from the bookmarks library in a browser results in replacing the currently open webpage. It is possible to open a new browser tab. However, the difference here is that the documents can be opened in the same window, and the connections are visual links. &lt;a href=&quot;#fnref:browser_bookmark&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -1261,14 +1261,14 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;h3 id=&quot;1-transclusion--&quot;&gt;1. Transclusion —-&lt;/h3&gt;
 
-&lt;p&gt;Transclusion is the inclusion of (a part of) a document into another document.&lt;sup id=&quot;fnref:form_of_transclusion&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:form_of_transclusion&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; When a content item is reused in another document, a visual (transclusion-type) link is automatically created, offering a way to retrieve “the origins and context of quotations, excerpts and anthologized materials, and content transiting between versions” (Nelson 1999).&lt;/p&gt;
+&lt;p&gt;Transclusion is the inclusion of (a part of) a document into another document.&lt;sup id=&quot;fnref:form_of_transclusion&quot;&gt;&lt;a href=&quot;#fn:form_of_transclusion&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; When a content item is reused in another document, a visual (transclusion-type) link is automatically created, offering a way to retrieve “the origins and context of quotations, excerpts and anthologized materials, and content transiting between versions” (Nelson 1999).&lt;/p&gt;
 
 &lt;p&gt;The image below shows the concept of transclusion on a technical level.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/link_types_02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2-taglink-&quot;&gt;2. Taglink –#–&lt;/h3&gt;
-&lt;p&gt;A taglink is any arbitrary conceptual connection created between (a part of) documents and can include a descriptive label (#Label) or remain empty (#). Utilizing the common usage of hashtags,&lt;sup id=&quot;fnref:hashtag&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:hashtag&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; taglinks enable the organization of links based on any taxonomy. Examples of taglinks are given below.&lt;/p&gt;
+&lt;p&gt;A taglink is any arbitrary conceptual connection created between (a part of) documents and can include a descriptive label (#Label) or remain empty (#). Utilizing the common usage of hashtags,&lt;sup id=&quot;fnref:hashtag&quot;&gt;&lt;a href=&quot;#fn:hashtag&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; taglinks enable the organization of links based on any taxonomy. Examples of taglinks are given below.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/link_types_03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -1282,10 +1282,10 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:form_of_transclusion&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:form_of_transclusion&quot;&gt;
       &lt;p&gt;Content by convention inserted between quotation marks or in a block quote, for example, is a &lt;em&gt;form&lt;/em&gt; of transclusion. &lt;a href=&quot;#fnref:form_of_transclusion&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:hashtag&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:hashtag&quot;&gt;
       &lt;p&gt;The word hashtag refers to the symbol # (as popularized by Twitter) and combines the word hash from the hash mark and the word tag as it is used to label something belonging to a specific category. &lt;a href=&quot;#fnref:hashtag&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -1302,7 +1302,7 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;h2 id=&quot;to-engage-with-complexity&quot;&gt;To Engage With Complexity&lt;/h2&gt;
 
-&lt;p&gt;The purpose of Stack View is to enable the (re)arrangement of a selection of documents in a particular order for entering Merge View. Creating &lt;em&gt;stacks&lt;/em&gt; is supposed to be a convenient method for engaging with complexity by selecting which to view in more detail. Shifting from a 2D to a 3D perspective may obfuscate and not serve that purpose well.&lt;sup id=&quot;fnref:filtering_technique&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:filtering_technique&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of Stack View is to enable the (re)arrangement of a selection of documents in a particular order for entering Merge View. Creating &lt;em&gt;stacks&lt;/em&gt; is supposed to be a convenient method for engaging with complexity by selecting which to view in more detail. Shifting from a 2D to a 3D perspective may obfuscate and not serve that purpose well.&lt;sup id=&quot;fnref:filtering_technique&quot;&gt;&lt;a href=&quot;#fn:filtering_technique&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;In abandoning Stack View, proceeding first requires defining the basic concepts more clearly. Questions are:&lt;/p&gt;
 &lt;ul&gt;
@@ -1316,7 +1316,7 @@ An improvement would be landing at the particular linked part of a document:
 &lt;h2 id=&quot;endnotes&quot;&gt;Endnotes&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:filtering_technique&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:filtering_technique&quot;&gt;
       &lt;p&gt;A filtering technique might be a better solution, which requires a grouping mechanism (explored in &lt;a href=&quot;8&quot;&gt;entry 08&lt;/a&gt;). &lt;a href=&quot;#fnref:filtering_technique&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -1462,7 +1462,7 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;h2 id=&quot;1-documents-and-interconnection&quot;&gt;1. Documents and Interconnection&lt;/h2&gt;
 
-&lt;p&gt;The concept of interconnection here denotes the various connections among documents’ content items&lt;sup id=&quot;fnref:content_item&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:content_item&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. As Ted Nelson (1987) explains, connections can be internal or external to a document, stated implicitly or explicitly. For example, phrases such as “in the example given below” or “as defined previously” establish &lt;strong&gt;implicit internal connections&lt;/strong&gt;. &lt;strong&gt;Explicit internal connections&lt;/strong&gt; are content items that, by convention, take the form of a footnote — the content of which can be a commentary on an idea, clarification of a term, parenthetical information, and suchlike. &lt;strong&gt;Explicit external connections&lt;/strong&gt; are inclusions of one document segment into another (what Nelson (1980) coined transclusions) or some other direct connection by way of reference (paraphrased content with a citation, for example). Interconnection thus implies multiple potential structures other than the content-item-by-content-item sequence in a document (or, in conventional terms, the paragraph-by-paragraph sequence).&lt;/p&gt;
+&lt;p&gt;The concept of interconnection here denotes the various connections among documents’ content items&lt;sup id=&quot;fnref:content_item&quot;&gt;&lt;a href=&quot;#fn:content_item&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. As Ted Nelson (1987) explains, connections can be internal or external to a document, stated implicitly or explicitly. For example, phrases such as “in the example given below” or “as defined previously” establish &lt;strong&gt;implicit internal connections&lt;/strong&gt;. &lt;strong&gt;Explicit internal connections&lt;/strong&gt; are content items that, by convention, take the form of a footnote — the content of which can be a commentary on an idea, clarification of a term, parenthetical information, and suchlike. &lt;strong&gt;Explicit external connections&lt;/strong&gt; are inclusions of one document segment into another (what Nelson (1980) coined transclusions) or some other direct connection by way of reference (paraphrased content with a citation, for example). Interconnection thus implies multiple potential structures other than the content-item-by-content-item sequence in a document (or, in conventional terms, the paragraph-by-paragraph sequence).&lt;/p&gt;
 
 &lt;p&gt;Other terms express similar notions about the various connections between documents. As Borgman (2015) writes, “[t]he body of relationships among documents is sometimes known as ‘&lt;em&gt;hypertextuality&lt;/em&gt;.’” &lt;em&gt;Hypertext&lt;/em&gt; is commonly associated with how it has been implemented on the web, understood in general terms as “a computer construct of links and data corresponding to files or parts of files that can be displayed in windows of various dimensions (Vandendorpe 2009).” Another term, used particularly within semiotics and literary theory, is &lt;em&gt;intertextuality&lt;/em&gt; which describes abstract connections “as in the influence of one text on the meaning of another” (Borgman 2015). One such connection can be how one text is derived from a preceding text, as with Ulysses by James Joyce, which is a transformation of Odyssey by Homer (Vandendorpe 2009). In the definition of an &lt;em&gt;intertext&lt;/em&gt; as it was first proposed, there is an emphasis on the perception of the reader, namely that the connections between one text and one that preceded or followed it results from the activity of reading (Vanderndorpe 2009). Ted Nelson (2015) calls it &lt;em&gt;intertwingularity&lt;/em&gt; which “expresses a philosophical position about cross-connection,” namely that “all subjects and issues are intertwined and intermingled.”&lt;/p&gt;
 
@@ -1523,7 +1523,7 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;h3 id=&quot;2--the-work-of-paul-otlet-1868-1944&quot;&gt;2  The work of Paul Otlet (1868-1944)&lt;/h3&gt;
 
-&lt;p&gt;The work of Paul Otlet — regarded as a pioneer of the field once called documentation that branched into what is now called information science (Le Deuff and Perret 2019) — developed new approaches to organizing and accessing information by devising models&lt;sup id=&quot;fnref:otlet_model&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:otlet_model&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and establishing theoretical principles of information. Otlet also explored how information organization might be in the future (once media other than the book would take precedence) in the form of metaphorical illustrations of a global network of documents (Heuvel and Rayward 2011).&lt;/p&gt;
+&lt;p&gt;The work of Paul Otlet — regarded as a pioneer of the field once called documentation that branched into what is now called information science (Le Deuff and Perret 2019) — developed new approaches to organizing and accessing information by devising models&lt;sup id=&quot;fnref:otlet_model&quot;&gt;&lt;a href=&quot;#fn:otlet_model&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and establishing theoretical principles of information. Otlet also explored how information organization might be in the future (once media other than the book would take precedence) in the form of metaphorical illustrations of a global network of documents (Heuvel and Rayward 2011).&lt;/p&gt;
 
 &lt;p&gt;Similar to the Encyclopédie — a project that is seen as in response to the eighteenth-century information overload (Rosenberg 2015) — Otlet’s work was in response to the nineteenth-century problem of “the enormous growth in the number of publications, specialist congresses, and international exhibitions” (Manfroid 2013). The problem that Otlet analyzed and explored solutions to was “how most effectively to create, maintain, and change institutional arrangements for collecting, storing, preserving, organizing, retrieving, and disseminating all of the recorded information that is — or will be — needed within society” (Rayward 1994). With that complex problem at hand, Otlet envisioned new approaches to storing, organizing, and disseminating information.&lt;/p&gt;
 
@@ -1565,11 +1565,11 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;p&gt;&lt;em&gt;Laboratorium Mundaneum (Image source: &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/a/a9/Laboratorium_Mundaneum.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Though the material constraints of paper-based technologies inhibited Otlet (e.g., books, paper cards, shelves, cabinets, and desks), he envisioned new ways of organizing and accessing information beyond what Adriaan van der Weel (2012) calls the &lt;em&gt;order of the book&lt;/em&gt;.&lt;sup id=&quot;fnref:order_of_the_book&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:order_of_the_book&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Though the material constraints of paper-based technologies inhibited Otlet (e.g., books, paper cards, shelves, cabinets, and desks), he envisioned new ways of organizing and accessing information beyond what Adriaan van der Weel (2012) calls the &lt;em&gt;order of the book&lt;/em&gt;.&lt;sup id=&quot;fnref:order_of_the_book&quot;&gt;&lt;a href=&quot;#fn:order_of_the_book&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;3-the-original-hypertext-project-xanadu-by-ted-nelson-1937&quot;&gt;3 The original hypertext project Xanadu by Ted Nelson (1937)&lt;/h3&gt;
 
-&lt;p&gt;Nelson is most known for inventing the &lt;em&gt;back button&lt;/em&gt;, and developing concepts such as &lt;em&gt;hypertext&lt;/em&gt;, &lt;em&gt;virtuality&lt;/em&gt;, and the &lt;em&gt;docuverse&lt;/em&gt;. Hypertext is likely the most known but is merely one of the many concepts Nelson has spent decades developing within a larger project called Xanadu. Though Xanadu has never been fully implemented, the many prototypes and writings throughout the decades since the 1960s have had a profound impact on the evolution of hypertext.&lt;sup id=&quot;fnref:xanadu_influence_web&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:xanadu_influence_web&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Nelson is most known for inventing the &lt;em&gt;back button&lt;/em&gt;, and developing concepts such as &lt;em&gt;hypertext&lt;/em&gt;, &lt;em&gt;virtuality&lt;/em&gt;, and the &lt;em&gt;docuverse&lt;/em&gt;. Hypertext is likely the most known but is merely one of the many concepts Nelson has spent decades developing within a larger project called Xanadu. Though Xanadu has never been fully implemented, the many prototypes and writings throughout the decades since the 1960s have had a profound impact on the evolution of hypertext.&lt;sup id=&quot;fnref:xanadu_influence_web&quot;&gt;&lt;a href=&quot;#fn:xanadu_influence_web&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Xanadu is a hypertext system, a docuverse, technically a piece of software that, since its conception, has been designed to run on a global network of computers in which every document is to reside (Ridi 2018). Much akin to the work of Otlet, Xanadu is based on particular notions about how knowledge evolves and the structure of ideas. As Nelson writes:&lt;/p&gt;
 
@@ -1608,7 +1608,7 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;p&gt;On a technical level, links are not embedded but implemented as an overlay, much akin to “a cache, or an alias on the desktop” (Nelson 1999), enabling multiple overlapping links to the same (part of a) document. Additionally, because all changes are stored, even if the original document undergoes changes, it is always possible to view the content item in its original context at the time it was transcluded.&lt;/p&gt;
 
-&lt;p&gt;In contrast, links on the web are embedded (in HTML) and only point outward. When a website is cited as a source in a text, it usually indicates the date the website was accessed. However, if the contents of the website have been deleted or changed since then, there is no way of accessing previous versions. Additionally, on the web, it is only possible to establish links at the document level (or &lt;em&gt;page&lt;/em&gt; level)&lt;sup id=&quot;fnref:links_on_the_web&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:links_on_the_web&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; whereas, in Xanadu, link endpoints are at the level of the content item. As for how this would look and work, Nelson envisioned Xanadu as a system in which documents are viewed side-by-side with visual links, expressed by two concepts: &lt;em&gt;parallel documents&lt;/em&gt; and &lt;em&gt;transpointing windows&lt;/em&gt; (Nelson 1999).&lt;/p&gt;
+&lt;p&gt;In contrast, links on the web are embedded (in HTML) and only point outward. When a website is cited as a source in a text, it usually indicates the date the website was accessed. However, if the contents of the website have been deleted or changed since then, there is no way of accessing previous versions. Additionally, on the web, it is only possible to establish links at the document level (or &lt;em&gt;page&lt;/em&gt; level)&lt;sup id=&quot;fnref:links_on_the_web&quot;&gt;&lt;a href=&quot;#fn:links_on_the_web&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; whereas, in Xanadu, link endpoints are at the level of the content item. As for how this would look and work, Nelson envisioned Xanadu as a system in which documents are viewed side-by-side with visual links, expressed by two concepts: &lt;em&gt;parallel documents&lt;/em&gt; and &lt;em&gt;transpointing windows&lt;/em&gt; (Nelson 1999).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/hypernotes01.png&quot; alt=&quot;&quot; /&gt;
 An improvement would be landing at the particular linked part of a document:
@@ -1628,7 +1628,7 @@ An improvement would be landing at the particular linked part of a document:
   &lt;p&gt;support analysis and detailed understanding – by parallel commentary, precise annotation and the explication of contents; by the facilitation of pinpoint controversy. These are needed not just in scholarship, but legislation, diplomacy, and anywhere that interrelated documents need to be seen[…for] detailed explication, commentary or disagreement[, and for] comparing successive versions of a document. (Nelson 1999)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A prototype from 2003, in which the links are solid lines pointing to and from content items within windows, is seen in the image below.&lt;sup id=&quot;fnref:2003_prototype&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2003_prototype&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A prototype from 2003, in which the links are solid lines pointing to and from content items within windows, is seen in the image below.&lt;sup id=&quot;fnref:2003_prototype&quot;&gt;&lt;a href=&quot;#fn:2003_prototype&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/nelson_cosmicbook.png&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Image source: Nelson (2015)&lt;/em&gt;&lt;/p&gt;
@@ -1638,14 +1638,14 @@ An improvement would be landing at the particular linked part of a document:
 &lt;p&gt;&lt;img src=&quot;assets/xanadoc.png&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Screenshot of Xanadoc (try the interactive demo &lt;a href=&quot;https://xanadu.com/xanademos/MoeJusteOrigins.html&quot;&gt;here&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;In the latest Xanadu prototype, which is in 3D,&lt;sup id=&quot;fnref:3D_prototype&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3D_prototype&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; the linked documents appear on the sides when moving through the contents, or as Nelson puts it: “all objects sworfing (swooping and/or morphing) together” (Nelson 2016).&lt;/p&gt;
+&lt;p&gt;In the latest Xanadu prototype, which is in 3D,&lt;sup id=&quot;fnref:3D_prototype&quot;&gt;&lt;a href=&quot;#fn:3D_prototype&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; the linked documents appear on the sides when moving through the contents, or as Nelson puts it: “all objects sworfing (swooping and/or morphing) together” (Nelson 2016).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/nelson_click_full_frame.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/xanaduspace_2007.png&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Image source: Nelson (2016)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;A demonstration of &lt;em&gt;sworfing&lt;/em&gt; is given by Nelson in the video below.&lt;sup id=&quot;fnref:sworfing&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:sworfing&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A demonstration of &lt;em&gt;sworfing&lt;/em&gt; is given by Nelson in the video below.&lt;sup id=&quot;fnref:sworfing&quot;&gt;&lt;a href=&quot;#fn:sworfing&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1yLNGUeHapA?start=274&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -1658,7 +1658,7 @@ An improvement would be landing at the particular linked part of a document:
 &lt;p&gt;&lt;img src=&quot;assets/conklin_fig11.png&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Image source: Conklin (1987)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Nelson refers to it as the &lt;em&gt;framing problem&lt;/em&gt;, to which he notes that “filtering links is a key aspect of front-end design [which] is a separate study in itself” (Nelson 1987).&lt;sup id=&quot;fnref:front-end-design&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:front-end-design&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Nelson refers to it as the &lt;em&gt;framing problem&lt;/em&gt;, to which he notes that “filtering links is a key aspect of front-end design [which] is a separate study in itself” (Nelson 1987).&lt;sup id=&quot;fnref:front-end-design&quot;&gt;&lt;a href=&quot;#fn:front-end-design&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/nelson_framing_problem.png&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Image source: Nelson (1987)&lt;/em&gt;&lt;/p&gt;
@@ -1738,34 +1738,34 @@ An improvement would be landing at the particular linked part of a document:
 &lt;h2 id=&quot;endnotes&quot;&gt;Endnotes&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:content_item&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:content_item&quot;&gt;
       &lt;p&gt;Content items are what Steven DeRose (1990) calls “content objects,” what Charles van den Heuvel and W. Boyd Rayward (2011) call “information chunks,” and what Ridi (2018) calls “information units.” In conventional terms, a paragraph, for example, is a content item; a quote within a paragraph is also a content item; a list and a list item are content items. &lt;a href=&quot;#fnref:content_item&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:otlet_model&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:otlet_model&quot;&gt;
       &lt;p&gt;One example is Otlet’s model, Functional Requirements for Bibliographic Records, in which entities are linked on multiple levels in the form of a network (Borgman 2015). With this model, Otlet proposed to restructure the library catalog databases based on the conceptual structure of information resources. &lt;a href=&quot;#fnref:otlet_model&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:order_of_the_book&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:order_of_the_book&quot;&gt;
       &lt;p&gt;As stated in [Questions That Follow], the &lt;em&gt;order of the book&lt;/em&gt; is the presentation and structure of text based on the form of books and defined by the format of manuscript and print. &lt;a href=&quot;#fnref:order_of_the_book&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:xanadu_influence_web&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:xanadu_influence_web&quot;&gt;
       &lt;p&gt;As acknowledged by Tim Berners-Lee, Xanadu influenced the development of the web (Ridi 2018). &lt;a href=&quot;#fnref:xanadu_influence_web&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:links_on_the_web&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Traversing content on the web by selecting hyperlinks commonly entails blindly &lt;em&gt;jumping&lt;/em&gt; and landing at the top of the page. Even if a sentence references a particular part of another webpage, a link cannot point directly to it.&lt;sup id=&quot;fnref:heading_link&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:heading_link&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; &lt;a href=&quot;#fnref:links_on_the_web&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:links_on_the_web&quot;&gt;
+      &lt;p&gt;Traversing content on the web by selecting hyperlinks commonly entails blindly &lt;em&gt;jumping&lt;/em&gt; and landing at the top of the page. Even if a sentence references a particular part of another webpage, a link cannot point directly to it.&lt;sup id=&quot;fnref:heading_link&quot;&gt;&lt;a href=&quot;#fn:heading_link&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; &lt;a href=&quot;#fnref:links_on_the_web&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2003_prototype&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:2003_prototype&quot;&gt;
       &lt;p&gt;Note that the link direction is unclear, and the position and overlap of the windows are not convenient. &lt;a href=&quot;#fnref:2003_prototype&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:3D_prototype&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:3D_prototype&quot;&gt;
       &lt;p&gt;One problem with this 3D version is that there is no obvious way of navigating the space. For reading and editing a document, it could be useful to snap into a full-frame view of a particular part of a document. &lt;a href=&quot;#fnref:3D_prototype&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:sworfing&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:sworfing&quot;&gt;
       &lt;p&gt;The idea of viewing documents side-by-side is solid, but having documents fly in and out of view as you move through the document is not. There should be an interaction step in which the content is only opened through deliberate action. &lt;a href=&quot;#fnref:sworfing&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:front-end-design&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:front-end-design&quot;&gt;
       &lt;p&gt;a problem to which this research project aims to propose a solution. &lt;a href=&quot;#fnref:front-end-design&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:heading_link&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:heading_link&quot;&gt;
       &lt;p&gt;It is possible to use anchor links that point to a specific section of a webpage, but it relies on the creator applying an HTML id attribute to the section title (see &lt;a href=&quot;https://stackoverflow.com/questions/15481911/linking-to-a-specific-part-of-a-web-page&quot;&gt;Stack Overflow&lt;/a&gt;). &lt;a href=&quot;#fnref:heading_link&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -1803,13 +1803,13 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;h3 id=&quot;2-what-is-meant-by-paper-document&quot;&gt;2. What is meant by &lt;em&gt;paper document&lt;/em&gt;?&lt;/h3&gt;
 
-&lt;p&gt;A paper document primarily contains the modality text, and the medium&lt;sup id=&quot;fnref:modality_and_medium&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:modality_and_medium&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; used for its transmission is paper, meaning it encompasses the manuscript and print traditions.&lt;/p&gt;
+&lt;p&gt;A paper document primarily contains the modality text, and the medium&lt;sup id=&quot;fnref:modality_and_medium&quot;&gt;&lt;a href=&quot;#fn:modality_and_medium&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; used for its transmission is paper, meaning it encompasses the manuscript and print traditions.&lt;/p&gt;
 
 &lt;h3 id=&quot;3-what-are-those-conventions-and-concepts-and-the-inherited-biases-and-constraints-derived-from-paper-documents&quot;&gt;3. What are those &lt;em&gt;conventions&lt;/em&gt; and &lt;em&gt;concepts&lt;/em&gt; and the inherited &lt;em&gt;biases&lt;/em&gt; and &lt;em&gt;constraints&lt;/em&gt; derived from paper documents?&lt;/h3&gt;
 
 &lt;p&gt;Conventions particular to paper documents are derived from what Adriaan van der Weel (2012) calls the &lt;em&gt;Order of the Book&lt;/em&gt; — presentation and structure of text based on the form of books and defined by the format of manuscript and print. Engaging with paper documents thus requires familiarity with concepts such as a table of contents, chapters, running head, page numbers, citations, reference lists, appendices, and how they are used as parts of a system. Beyond those pertaining specifically to the paper page are concepts derived from the environments in which people engage with paper documents. Examples are the &lt;em&gt;clipboard&lt;/em&gt;, &lt;em&gt;paper bin&lt;/em&gt;, &lt;em&gt;folders&lt;/em&gt;, &lt;em&gt;files&lt;/em&gt;, &lt;em&gt;desktop&lt;/em&gt; and activities such as &lt;em&gt;cutting&lt;/em&gt;, &lt;em&gt;pasting&lt;/em&gt;, &lt;em&gt;highlighting&lt;/em&gt; and &lt;em&gt;paging&lt;/em&gt; — transferred to the digital realm as metaphorical concepts. These are some of the conventions and concepts derived from paper documents.&lt;/p&gt;
 
-&lt;p&gt;Inherited biases and constraints can be seen in the conception of digital documents as &lt;em&gt;files&lt;/em&gt; organized into nested &lt;em&gt;folders&lt;/em&gt;. How the &lt;em&gt;file system&lt;/em&gt; (a paper document management system) has been transferred into the digital realm is grounded in the assumption that all files are independent objects that fit neatly into a hierarchical structure. Even if a file conceptually belongs to multiple categories, it can only exist in one. If it is insisted upon that a file belongs to more than one category, then just as with a paper file, that digital file must be &lt;em&gt;copied&lt;/em&gt; to the &lt;em&gt;clipboard&lt;/em&gt; and &lt;em&gt;pasted&lt;/em&gt; into another folder, and we now have two separate &lt;em&gt;copies&lt;/em&gt;.&lt;sup id=&quot;fnref:macOS&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:macOS&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Inherited biases and constraints can be seen in the conception of digital documents as &lt;em&gt;files&lt;/em&gt; organized into nested &lt;em&gt;folders&lt;/em&gt;. How the &lt;em&gt;file system&lt;/em&gt; (a paper document management system) has been transferred into the digital realm is grounded in the assumption that all files are independent objects that fit neatly into a hierarchical structure. Even if a file conceptually belongs to multiple categories, it can only exist in one. If it is insisted upon that a file belongs to more than one category, then just as with a paper file, that digital file must be &lt;em&gt;copied&lt;/em&gt; to the &lt;em&gt;clipboard&lt;/em&gt; and &lt;em&gt;pasted&lt;/em&gt; into another folder, and we now have two separate &lt;em&gt;copies&lt;/em&gt;.&lt;sup id=&quot;fnref:macOS&quot;&gt;&lt;a href=&quot;#fn:macOS&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Concepts and conventions derived from paper documents have been transferred to the &lt;em&gt;digital realm&lt;/em&gt;, inheriting the biases and constraints. It begins at the computer operating system level but permeates the digital realm.&lt;/p&gt;
 
@@ -1842,7 +1842,7 @@ An improvement would be landing at the particular linked part of a document:
   &lt;p&gt;Uniformity, predictability, consistency, and standardization were prerequisites for analytical and scientific thinking. (Weel 2012)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;These effects on human cognition are related to the staticity of (and what it entails to engage with) text on the paper page.&lt;sup id=&quot;fnref:abandon_not_all&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:abandon_not_all&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; In contrast to text on the paper page, digital text is marked by dynamicity and modifiability. At a basic level, digital text is encoded as a bit pattern (e.g., 1010111) representing a character unit (e.g., W). As Stéfan Sinclair and Geoffrey Rockwell (2016) suggest, these properties imply the potential for rearrangement and restructuring (i.e., move these bits here to there, extract only those bits, rearrange them according to this, then that, and put those here). At yet another level, digital text is encoded through a markup language. Encoding text involves “marking up” the structure, the visual presentation, and the metadata—all of which can be utilized to modify (the form, content, and meaning of) texts. For example, a content item that is a title in one document can be transformed into a list item in the same or another document (e.g., an expandable table of contents). Importantly, modification of digital text by modifying the code that transcribes it can be done without repercussions to source content. That is, rearranging parts, transforming between formats, extracting and sorting text segments, and annotating or performing analyses on those extracted text segments involves operations that can be performed without repercussions to the source content. With paper documents, such actions are enacted directly upon the material.&lt;/p&gt;
+&lt;p&gt;These effects on human cognition are related to the staticity of (and what it entails to engage with) text on the paper page.&lt;sup id=&quot;fnref:abandon_not_all&quot;&gt;&lt;a href=&quot;#fn:abandon_not_all&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot; role=&quot;doc-noteref&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; In contrast to text on the paper page, digital text is marked by dynamicity and modifiability. At a basic level, digital text is encoded as a bit pattern (e.g., 1010111) representing a character unit (e.g., W). As Stéfan Sinclair and Geoffrey Rockwell (2016) suggest, these properties imply the potential for rearrangement and restructuring (i.e., move these bits here to there, extract only those bits, rearrange them according to this, then that, and put those here). At yet another level, digital text is encoded through a markup language. Encoding text involves “marking up” the structure, the visual presentation, and the metadata—all of which can be utilized to modify (the form, content, and meaning of) texts. For example, a content item that is a title in one document can be transformed into a list item in the same or another document (e.g., an expandable table of contents). Importantly, modification of digital text by modifying the code that transcribes it can be done without repercussions to source content. That is, rearranging parts, transforming between formats, extracting and sorting text segments, and annotating or performing analyses on those extracted text segments involves operations that can be performed without repercussions to the source content. With paper documents, such actions are enacted directly upon the material.&lt;/p&gt;
 
 &lt;h4 id=&quot;2-with-text-on-the-paper-page-actions-are-direct-with-text-in-the-digital-realm-actions-are-interactive&quot;&gt;2. With text on the paper page, actions are direct; with text in the digital realm, actions are interactive.&lt;/h4&gt;
 
@@ -1873,13 +1873,13 @@ An improvement would be landing at the particular linked part of a document:
 &lt;p&gt;Sinclair S, Rockwell G. Text Analysis and Visualization: Making Meaning Count. A New Companion to Digital Humanities. 2016. p. 17.&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:modality_and_medium&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:modality_and_medium&quot;&gt;
       &lt;p&gt;Modality, in computer terms, is analogous to data type, and medium is the equipment used for its transmission (Weel 2012). The properties of a medium dictate the modality it can mediate. For example, a paper document can transmit the modalities text and image, while a digital document can transmit the modalities text, image, video, and sound. &lt;a href=&quot;#fnref:modality_and_medium&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:macOS&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:macOS&quot;&gt;
       &lt;p&gt;The Macintosh operating system &lt;a href=&quot;https://arstechnica.com/gadgets/2013/10/os-x-10-9/9/&quot;&gt;System 6&lt;/a&gt; introduced in 1988 offered a fixed seven-color label option enabling grouping mechanisms for sorting files and folders. This feature was not extended until 2013, when descriptive labels for tagging files were introduced on &lt;a href=&quot;https://arstechnica.com/gadgets/2013/10/os-x-10-9/9/&quot;&gt;Mavericks&lt;/a&gt;. Software that extends the features of Finder — the graphical user interface shell employed on all Macintosh operating systems — includes &lt;a href=&quot;https://binarynights.com&quot;&gt;ForkLift&lt;/a&gt;, &lt;a href=&quot;https://totalfinder.binaryage.com&quot;&gt;TotalFinder&lt;/a&gt;, &lt;a href=&quot;https://www.mucommander.com&quot;&gt;muCommander&lt;/a&gt;, and &lt;a href=&quot;https://trankynam.com/xtrafinder/&quot;&gt;XtraFinder&lt;/a&gt;, to name a few. However, these are workarounds to the inflexibility of the file system grounded in constraining organization principles. They are pieces of software developed to fix the problems of another piece of software. &lt;a href=&quot;#fnref:macOS&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:abandon_not_all&quot; role=&quot;doc-endnote&quot;&gt;
+    &lt;li id=&quot;fn:abandon_not_all&quot;&gt;
       &lt;p&gt;For these reasons, it should be clear that developing a digital document system does not involve abandoning all conventions, practices, and concepts derived from paper documents. Rather, the aim is to take new approaches to those concepts by considering the potential inherent to the digital realm. &lt;a href=&quot;#fnref:abandon_not_all&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
@@ -1941,7 +1941,7 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;h2 id=&quot;4-method&quot;&gt;4. Method&lt;/h2&gt;
 
-&lt;p&gt;The method is based on an iterative process of content creation, concept design, and creating interactive prototypes of a digital document system.&lt;/p&gt;
+&lt;p&gt;The method is based on an iterative process of content creation, concept design, creating and testing interactive prototypes of a digital document system.&lt;/p&gt;
 
 &lt;h3 id=&quot;step-1-content-creation&quot;&gt;Step 1: Content Creation&lt;/h3&gt;
 
@@ -1957,7 +1957,7 @@ An improvement would be landing at the particular linked part of a document:
 
 &lt;p&gt;Questions include how to design interactions for switching view modes or how different categories of information are visually distinguished. For example, if footnotes are abandoned, then what concept will allow mapping the type of content that is conventionally inserted as footnotes?&lt;/p&gt;
 
-&lt;p&gt;The interactive prototypes created in this step are expected to inform modifications to the design. As each informs the other, steps 2-3 are iterated until it is surmised that enough has been gathered for step 4.&lt;/p&gt;
+&lt;p&gt;The interactive prototypes created and tested in this step are expected to inform modifications to the design. As each informs the other, steps 2-3 are iterated until it is surmised that enough has been gathered for step 4.&lt;/p&gt;
 
 &lt;h3 id=&quot;step-4-implementation&quot;&gt;Step 4: Implementation&lt;/h3&gt;
 

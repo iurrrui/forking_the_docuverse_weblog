@@ -1,4 +1,4 @@
-I"Å<p>Alterations and additions:</p>
+I"²<p>Alterations and additions:</p>
 <ul>
   <li>Metadata of documents accessible through the ellipsis icon.</li>
   <li>Title underline is chosen over border color.</li>
@@ -15,7 +15,7 @@
 <ul>
   <li>The title underline is deemed too subtle to indicate multiple aliases of the same document.
     <ul>
-      <li>Color-coded borders might be better suited.<sup id="fnref:color_code_problem" role="doc-noteref"><a href="#fn:color_code_problem" class="footnote" rel="footnote">1</a></sup></li>
+      <li>Color-coded borders might be better suited.<sup id="fnref:color_code_problem"><a href="#fn:color_code_problem" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></li>
       <li>The color-coded borders should also appear upon hovering a document in Zoomed-Out View for coherency.</li>
     </ul>
   </li>
@@ -36,7 +36,7 @@
 <h2 id="endnotes">Endnotes</h2>
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:color_code_problem" role="doc-endnote">
+    <li id="fn:color_code_problem">
       <p>â€¦though once there are more documents, there will be too many indistinguishable colors.Â <a href="#fnref:color_code_problem" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

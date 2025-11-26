@@ -1,4 +1,4 @@
-I"�<p>In designing Zoomed-In View, one of the challenges is indicating that there are multiple aliases of the same document. Below are variations of applying a color code.</p>
+I"�<p>In designing Zoomed-In View, one of the challenges is indicating that there are multiple aliases of the same document. Below are variations of applying a color code.</p>
 
 <p><strong>Verison 1</strong></p>
 
@@ -6,7 +6,7 @@
 
 <p><img src="assets/coded_colors.png" alt="" /></p>
 
-<p>In the top-left corner in the image above, the blue color-coding and shape of the link indicate that the word “modality” in the middle document is linked to the entire side document. In the bottom-right of the image, the green color coding and shape of the link indicate that only parts of each document are linked.<sup id="fnref:version_1" role="doc-noteref"><a href="#fn:version_1" class="footnote" rel="footnote">1</a></sup></p>
+<p>In the top-left corner in the image above, the blue color-coding and shape of the link indicate that the word “modality” in the middle document is linked to the entire side document. In the bottom-right of the image, the green color coding and shape of the link indicate that only parts of each document are linked.<sup id="fnref:version_1"><a href="#fn:version_1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></p>
 
 <p><strong>Verison 2</strong></p>
 
@@ -27,7 +27,7 @@
 <p>The <a href="13">next entry</a> reflects on the potential of the link types developed so far.</p>
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:version_1" role="doc-endnote">
+    <li id="fn:version_1">
       <p>Having multiple colors throughout the main document may become distracting. <a href="#fnref:version_1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

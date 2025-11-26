@@ -1,11 +1,11 @@
-I""<p>Alterations and additions:</p>
+I"<p>Alterations and additions:</p>
 <ul>
   <li>Stack View is abandoned due to being visually incoherent and overwhelming.</li>
   <li>All view modes are now 2D.</li>
   <li>Labels can be attached to links (called <em>taglinks</em>)</li>
 </ul>
 
-<p>While in Inventory View, selecting a node opens a document. Selecting another node will close the already-open document and open the other. There are two versions of how this might look and work.<sup id="fnref:browser_bookmark" role="doc-noteref"><a href="#fn:browser_bookmark" class="footnote" rel="footnote">1</a></sup></p>
+<p>While in Inventory View, selecting a node opens a document. Selecting another node will close the already-open document and open the other. There are two versions of how this might look and work.<sup id="fnref:browser_bookmark"><a href="#fn:browser_bookmark" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></p>
 
 <h2 id="from-inventory-view-to-lateral-mode">From Inventory View to Lateral Mode</h2>
 
@@ -87,7 +87,7 @@
 <h2 id="endnotes">Endnotes</h2>
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:browser_bookmark" role="doc-endnote">
+    <li id="fn:browser_bookmark">
       <p>This is similar to when selecting a website URL from the bookmarks library in a browser results in replacing the currently open webpage. It is possible to open a new browser tab. However, the difference here is that the documents can be opened in the same window, and the connections are visual links. <a href="#fnref:browser_bookmark" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

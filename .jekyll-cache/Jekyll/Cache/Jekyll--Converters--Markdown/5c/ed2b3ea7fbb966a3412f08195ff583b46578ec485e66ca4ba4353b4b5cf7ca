@@ -1,4 +1,4 @@
-I"<p>Both the reader and writer of a document can map structures.<sup id="fnref:computational_methods" role="doc-noteref"><a href="#fn:computational_methods" class="footnote" rel="footnote">1</a></sup> Attaching links or metadata to documents to establish connections between them results in multisequential structures, or “interconnective structure[s]” (Nelson 1987). There may be an intended content-item-by-content-item sequence, in conventional terms, paragraph-by-paragraph, list-item-by-list-item, and so on. Several other structures also exist and can be (and usually are) mapped.</p>
+I"�<p>Both the reader and writer of a document can map structures.<sup id="fnref:computational_methods"><a href="#fn:computational_methods" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> Attaching links or metadata to documents to establish connections between them results in multisequential structures, or “interconnective structure[s]” (Nelson 1987). There may be an intended content-item-by-content-item sequence, in conventional terms, paragraph-by-paragraph, list-item-by-list-item, and so on. Several other structures also exist and can be (and usually are) mapped.</p>
 
 <p>For example, in conventional terms, the order of a set of chapters and subchapters is the sequential order intended by the writer.</p>
 
@@ -8,7 +8,7 @@
   <p>It should be noted, furthermore, that while a novel on paper is far from being automatically linear, a hypertext is not necessarily nonlinear. The pages or segments may be rigorously sequential, forcing the reader to read them in a fixed order, one even more fixed than that of the pages of a book, because it is always possible to open a book to any page one wishes while a hypertext can be programmed to totally control the reader’s path. This said, hypertext by nature lends itself ideally to a variety of reading paths and to multisequential navigation. (Vandendorpe 2009)</p>
 </blockquote>
 
-<p>The digital document system should allow arranging not only content items but also documents in sequential order, with the possibility of showing and hiding sequences. To that end, a third link type called <em>seqlinks</em> will be developed.<sup id="fnref:seqlink" role="doc-noteref"><a href="#fn:seqlink" class="footnote" rel="footnote">2</a></sup></p>
+<p>The digital document system should allow arranging not only content items but also documents in sequential order, with the possibility of showing and hiding sequences. To that end, a third link type called <em>seqlinks</em> will be developed.<sup id="fnref:seqlink"><a href="#fn:seqlink" class="footnote" rel="footnote" role="doc-noteref">2</a></sup></p>
 
 <p>The <a href="14">next entry</a> further explores traversing documents in Zoomed-Out View and Zoomed-In View.</p>
 
@@ -19,10 +19,10 @@
 <h2 id="endnotes">Endnotes</h2>
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:computational_methods" role="doc-endnote">
+    <li id="fn:computational_methods">
       <p>As noted in <a href="03">entry 03</a>, computational methods, such as applying natural language processing techniques for classifying text and keyword extraction, are not excluded. <a href="#fnref:computational_methods" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:seqlink" role="doc-endnote">
+    <li id="fn:seqlink">
       <p><em>Seqlinks</em> are introduced in <a href="">entry </a>. <a href="#fnref:seqlink" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

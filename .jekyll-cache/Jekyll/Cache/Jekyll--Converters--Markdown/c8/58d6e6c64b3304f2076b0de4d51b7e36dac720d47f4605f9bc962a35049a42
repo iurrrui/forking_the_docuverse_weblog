@@ -1,8 +1,8 @@
-I"^<p>This entry discusses points for improving the design presented in the <a href="04">previous entry</a>.</p>
+I"K<p>This entry discusses points for improving the design presented in the <a href="04">previous entry</a>.</p>
 
 <h2 id="to-engage-with-complexity">To Engage With Complexity</h2>
 
-<p>The purpose of Stack View is to enable the (re)arrangement of a selection of documents in a particular order for entering Merge View. Creating <em>stacks</em> is supposed to be a convenient method for engaging with complexity by selecting which to view in more detail. Shifting from a 2D to a 3D perspective may obfuscate and not serve that purpose well.<sup id="fnref:filtering_technique" role="doc-noteref"><a href="#fn:filtering_technique" class="footnote" rel="footnote">1</a></sup></p>
+<p>The purpose of Stack View is to enable the (re)arrangement of a selection of documents in a particular order for entering Merge View. Creating <em>stacks</em> is supposed to be a convenient method for engaging with complexity by selecting which to view in more detail. Shifting from a 2D to a 3D perspective may obfuscate and not serve that purpose well.<sup id="fnref:filtering_technique"><a href="#fn:filtering_technique" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></p>
 
 <p>In abandoning Stack View, proceeding first requires defining the basic concepts more clearly. Questions are:</p>
 <ul>
@@ -16,7 +16,7 @@
 <h2 id="endnotes">Endnotes</h2>
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:filtering_technique" role="doc-endnote">
+    <li id="fn:filtering_technique">
       <p>A filtering technique might be a better solution, which requires a grouping mechanism (explored in <a href="8">entry 08</a>). <a href="#fnref:filtering_technique" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

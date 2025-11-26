@@ -1,4 +1,4 @@
-I"��<p>The first section of this entry introduces the concept of interconnection, the various terms used to express the idea of interconnection across fields, and the underlying philosophical position.</p>
+I"<�<p>The first section of this entry introduces the concept of interconnection, the various terms used to express the idea of interconnection across fields, and the underlying philosophical position.</p>
 
 <p>The second section examines prominent document systems comprising concepts for mapping the interconnective structure of documents. Those concepts are juxtaposed to how they have been implemented in commonly known systems, such as how hypertext is implemented on the web. The biases and conventions inherited from paper documents are also discussed, including the (dis)advantages of transferring these (or how these have been transferred) to the digital realm.</p>
 
@@ -22,7 +22,7 @@
 
 <h2 id="1-documents-and-interconnection">1. Documents and Interconnection</h2>
 
-<p>The concept of interconnection here denotes the various connections among documents’ content items<sup id="fnref:content_item" role="doc-noteref"><a href="#fn:content_item" class="footnote" rel="footnote">1</a></sup>. As Ted Nelson (1987) explains, connections can be internal or external to a document, stated implicitly or explicitly. For example, phrases such as “in the example given below” or “as defined previously” establish <strong>implicit internal connections</strong>. <strong>Explicit internal connections</strong> are content items that, by convention, take the form of a footnote — the content of which can be a commentary on an idea, clarification of a term, parenthetical information, and suchlike. <strong>Explicit external connections</strong> are inclusions of one document segment into another (what Nelson (1980) coined transclusions) or some other direct connection by way of reference (paraphrased content with a citation, for example). Interconnection thus implies multiple potential structures other than the content-item-by-content-item sequence in a document (or, in conventional terms, the paragraph-by-paragraph sequence).</p>
+<p>The concept of interconnection here denotes the various connections among documents’ content items<sup id="fnref:content_item"><a href="#fn:content_item" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>. As Ted Nelson (1987) explains, connections can be internal or external to a document, stated implicitly or explicitly. For example, phrases such as “in the example given below” or “as defined previously” establish <strong>implicit internal connections</strong>. <strong>Explicit internal connections</strong> are content items that, by convention, take the form of a footnote — the content of which can be a commentary on an idea, clarification of a term, parenthetical information, and suchlike. <strong>Explicit external connections</strong> are inclusions of one document segment into another (what Nelson (1980) coined transclusions) or some other direct connection by way of reference (paraphrased content with a citation, for example). Interconnection thus implies multiple potential structures other than the content-item-by-content-item sequence in a document (or, in conventional terms, the paragraph-by-paragraph sequence).</p>
 
 <p>Other terms express similar notions about the various connections between documents. As Borgman (2015) writes, “[t]he body of relationships among documents is sometimes known as ‘<em>hypertextuality</em>.’” <em>Hypertext</em> is commonly associated with how it has been implemented on the web, understood in general terms as “a computer construct of links and data corresponding to files or parts of files that can be displayed in windows of various dimensions (Vandendorpe 2009).” Another term, used particularly within semiotics and literary theory, is <em>intertextuality</em> which describes abstract connections “as in the influence of one text on the meaning of another” (Borgman 2015). One such connection can be how one text is derived from a preceding text, as with Ulysses by James Joyce, which is a transformation of Odyssey by Homer (Vandendorpe 2009). In the definition of an <em>intertext</em> as it was first proposed, there is an emphasis on the perception of the reader, namely that the connections between one text and one that preceded or followed it results from the activity of reading (Vanderndorpe 2009). Ted Nelson (2015) calls it <em>intertwingularity</em> which “expresses a philosophical position about cross-connection,” namely that “all subjects and issues are intertwined and intermingled.”</p>
 
@@ -83,7 +83,7 @@
 
 <h3 id="2--the-work-of-paul-otlet-1868-1944">2  The work of Paul Otlet (1868-1944)</h3>
 
-<p>The work of Paul Otlet — regarded as a pioneer of the field once called documentation that branched into what is now called information science (Le Deuff and Perret 2019) — developed new approaches to organizing and accessing information by devising models<sup id="fnref:otlet_model" role="doc-noteref"><a href="#fn:otlet_model" class="footnote" rel="footnote">2</a></sup> and establishing theoretical principles of information. Otlet also explored how information organization might be in the future (once media other than the book would take precedence) in the form of metaphorical illustrations of a global network of documents (Heuvel and Rayward 2011).</p>
+<p>The work of Paul Otlet — regarded as a pioneer of the field once called documentation that branched into what is now called information science (Le Deuff and Perret 2019) — developed new approaches to organizing and accessing information by devising models<sup id="fnref:otlet_model"><a href="#fn:otlet_model" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> and establishing theoretical principles of information. Otlet also explored how information organization might be in the future (once media other than the book would take precedence) in the form of metaphorical illustrations of a global network of documents (Heuvel and Rayward 2011).</p>
 
 <p>Similar to the Encyclopédie — a project that is seen as in response to the eighteenth-century information overload (Rosenberg 2015) — Otlet’s work was in response to the nineteenth-century problem of “the enormous growth in the number of publications, specialist congresses, and international exhibitions” (Manfroid 2013). The problem that Otlet analyzed and explored solutions to was “how most effectively to create, maintain, and change institutional arrangements for collecting, storing, preserving, organizing, retrieving, and disseminating all of the recorded information that is — or will be — needed within society” (Rayward 1994). With that complex problem at hand, Otlet envisioned new approaches to storing, organizing, and disseminating information.</p>
 
@@ -125,11 +125,11 @@
 
 <p><em>Laboratorium Mundaneum (Image source: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a9/Laboratorium_Mundaneum.jpg">Wikimedia Commons</a>)</em></p>
 
-<p>Though the material constraints of paper-based technologies inhibited Otlet (e.g., books, paper cards, shelves, cabinets, and desks), he envisioned new ways of organizing and accessing information beyond what Adriaan van der Weel (2012) calls the <em>order of the book</em>.<sup id="fnref:order_of_the_book" role="doc-noteref"><a href="#fn:order_of_the_book" class="footnote" rel="footnote">3</a></sup></p>
+<p>Though the material constraints of paper-based technologies inhibited Otlet (e.g., books, paper cards, shelves, cabinets, and desks), he envisioned new ways of organizing and accessing information beyond what Adriaan van der Weel (2012) calls the <em>order of the book</em>.<sup id="fnref:order_of_the_book"><a href="#fn:order_of_the_book" class="footnote" rel="footnote" role="doc-noteref">3</a></sup></p>
 
 <h3 id="3-the-original-hypertext-project-xanadu-by-ted-nelson-1937">3 The original hypertext project Xanadu by Ted Nelson (1937)</h3>
 
-<p>Nelson is most known for inventing the <em>back button</em>, and developing concepts such as <em>hypertext</em>, <em>virtuality</em>, and the <em>docuverse</em>. Hypertext is likely the most known but is merely one of the many concepts Nelson has spent decades developing within a larger project called Xanadu. Though Xanadu has never been fully implemented, the many prototypes and writings throughout the decades since the 1960s have had a profound impact on the evolution of hypertext.<sup id="fnref:xanadu_influence_web" role="doc-noteref"><a href="#fn:xanadu_influence_web" class="footnote" rel="footnote">4</a></sup></p>
+<p>Nelson is most known for inventing the <em>back button</em>, and developing concepts such as <em>hypertext</em>, <em>virtuality</em>, and the <em>docuverse</em>. Hypertext is likely the most known but is merely one of the many concepts Nelson has spent decades developing within a larger project called Xanadu. Though Xanadu has never been fully implemented, the many prototypes and writings throughout the decades since the 1960s have had a profound impact on the evolution of hypertext.<sup id="fnref:xanadu_influence_web"><a href="#fn:xanadu_influence_web" class="footnote" rel="footnote" role="doc-noteref">4</a></sup></p>
 
 <p>Xanadu is a hypertext system, a docuverse, technically a piece of software that, since its conception, has been designed to run on a global network of computers in which every document is to reside (Ridi 2018). Much akin to the work of Otlet, Xanadu is based on particular notions about how knowledge evolves and the structure of ideas. As Nelson writes:</p>
 
@@ -168,7 +168,7 @@
 
 <p>On a technical level, links are not embedded but implemented as an overlay, much akin to “a cache, or an alias on the desktop” (Nelson 1999), enabling multiple overlapping links to the same (part of a) document. Additionally, because all changes are stored, even if the original document undergoes changes, it is always possible to view the content item in its original context at the time it was transcluded.</p>
 
-<p>In contrast, links on the web are embedded (in HTML) and only point outward. When a website is cited as a source in a text, it usually indicates the date the website was accessed. However, if the contents of the website have been deleted or changed since then, there is no way of accessing previous versions. Additionally, on the web, it is only possible to establish links at the document level (or <em>page</em> level)<sup id="fnref:links_on_the_web" role="doc-noteref"><a href="#fn:links_on_the_web" class="footnote" rel="footnote">5</a></sup> whereas, in Xanadu, link endpoints are at the level of the content item. As for how this would look and work, Nelson envisioned Xanadu as a system in which documents are viewed side-by-side with visual links, expressed by two concepts: <em>parallel documents</em> and <em>transpointing windows</em> (Nelson 1999).</p>
+<p>In contrast, links on the web are embedded (in HTML) and only point outward. When a website is cited as a source in a text, it usually indicates the date the website was accessed. However, if the contents of the website have been deleted or changed since then, there is no way of accessing previous versions. Additionally, on the web, it is only possible to establish links at the document level (or <em>page</em> level)<sup id="fnref:links_on_the_web"><a href="#fn:links_on_the_web" class="footnote" rel="footnote" role="doc-noteref">5</a></sup> whereas, in Xanadu, link endpoints are at the level of the content item. As for how this would look and work, Nelson envisioned Xanadu as a system in which documents are viewed side-by-side with visual links, expressed by two concepts: <em>parallel documents</em> and <em>transpointing windows</em> (Nelson 1999).</p>
 
 <p><img src="assets/hypernotes01.png" alt="" />
 An improvement would be landing at the particular linked part of a document:
@@ -188,7 +188,7 @@ An improvement would be landing at the particular linked part of a document:
   <p>support analysis and detailed understanding – by parallel commentary, precise annotation and the explication of contents; by the facilitation of pinpoint controversy. These are needed not just in scholarship, but legislation, diplomacy, and anywhere that interrelated documents need to be seen[…for] detailed explication, commentary or disagreement[, and for] comparing successive versions of a document. (Nelson 1999)</p>
 </blockquote>
 
-<p>A prototype from 2003, in which the links are solid lines pointing to and from content items within windows, is seen in the image below.<sup id="fnref:2003_prototype" role="doc-noteref"><a href="#fn:2003_prototype" class="footnote" rel="footnote">6</a></sup></p>
+<p>A prototype from 2003, in which the links are solid lines pointing to and from content items within windows, is seen in the image below.<sup id="fnref:2003_prototype"><a href="#fn:2003_prototype" class="footnote" rel="footnote" role="doc-noteref">6</a></sup></p>
 
 <p><img src="assets/nelson_cosmicbook.png" alt="" />
 <em>Image source: Nelson (2015)</em></p>
@@ -198,14 +198,14 @@ An improvement would be landing at the particular linked part of a document:
 <p><img src="assets/xanadoc.png" alt="" />
 <em>Screenshot of Xanadoc (try the interactive demo <a href="https://xanadu.com/xanademos/MoeJusteOrigins.html">here</a>)</em></p>
 
-<p>In the latest Xanadu prototype, which is in 3D,<sup id="fnref:3D_prototype" role="doc-noteref"><a href="#fn:3D_prototype" class="footnote" rel="footnote">7</a></sup> the linked documents appear on the sides when moving through the contents, or as Nelson puts it: “all objects sworfing (swooping and/or morphing) together” (Nelson 2016).</p>
+<p>In the latest Xanadu prototype, which is in 3D,<sup id="fnref:3D_prototype"><a href="#fn:3D_prototype" class="footnote" rel="footnote" role="doc-noteref">7</a></sup> the linked documents appear on the sides when moving through the contents, or as Nelson puts it: “all objects sworfing (swooping and/or morphing) together” (Nelson 2016).</p>
 
 <p><img src="assets/nelson_click_full_frame.png" alt="" /></p>
 
 <p><img src="assets/xanaduspace_2007.png" alt="" />
 <em>Image source: Nelson (2016)</em></p>
 
-<p>A demonstration of <em>sworfing</em> is given by Nelson in the video below.<sup id="fnref:sworfing" role="doc-noteref"><a href="#fn:sworfing" class="footnote" rel="footnote">8</a></sup></p>
+<p>A demonstration of <em>sworfing</em> is given by Nelson in the video below.<sup id="fnref:sworfing"><a href="#fn:sworfing" class="footnote" rel="footnote" role="doc-noteref">8</a></sup></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1yLNGUeHapA?start=274" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -218,7 +218,7 @@ An improvement would be landing at the particular linked part of a document:
 <p><img src="assets/conklin_fig11.png" alt="" />
 <em>Image source: Conklin (1987)</em></p>
 
-<p>Nelson refers to it as the <em>framing problem</em>, to which he notes that “filtering links is a key aspect of front-end design [which] is a separate study in itself” (Nelson 1987).<sup id="fnref:front-end-design" role="doc-noteref"><a href="#fn:front-end-design" class="footnote" rel="footnote">9</a></sup></p>
+<p>Nelson refers to it as the <em>framing problem</em>, to which he notes that “filtering links is a key aspect of front-end design [which] is a separate study in itself” (Nelson 1987).<sup id="fnref:front-end-design"><a href="#fn:front-end-design" class="footnote" rel="footnote" role="doc-noteref">9</a></sup></p>
 
 <p><img src="assets/nelson_framing_problem.png" alt="" />
 <em>Image source: Nelson (1987)</em></p>
@@ -298,34 +298,34 @@ An improvement would be landing at the particular linked part of a document:
 <h2 id="endnotes">Endnotes</h2>
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:content_item" role="doc-endnote">
+    <li id="fn:content_item">
       <p>Content items are what Steven DeRose (1990) calls “content objects,” what Charles van den Heuvel and W. Boyd Rayward (2011) call “information chunks,” and what Ridi (2018) calls “information units.” In conventional terms, a paragraph, for example, is a content item; a quote within a paragraph is also a content item; a list and a list item are content items. <a href="#fnref:content_item" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:otlet_model" role="doc-endnote">
+    <li id="fn:otlet_model">
       <p>One example is Otlet’s model, Functional Requirements for Bibliographic Records, in which entities are linked on multiple levels in the form of a network (Borgman 2015). With this model, Otlet proposed to restructure the library catalog databases based on the conceptual structure of information resources. <a href="#fnref:otlet_model" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:order_of_the_book" role="doc-endnote">
+    <li id="fn:order_of_the_book">
       <p>As stated in [Questions That Follow], the <em>order of the book</em> is the presentation and structure of text based on the form of books and defined by the format of manuscript and print. <a href="#fnref:order_of_the_book" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:xanadu_influence_web" role="doc-endnote">
+    <li id="fn:xanadu_influence_web">
       <p>As acknowledged by Tim Berners-Lee, Xanadu influenced the development of the web (Ridi 2018). <a href="#fnref:xanadu_influence_web" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:links_on_the_web" role="doc-endnote">
-      <p>Traversing content on the web by selecting hyperlinks commonly entails blindly <em>jumping</em> and landing at the top of the page. Even if a sentence references a particular part of another webpage, a link cannot point directly to it.<sup id="fnref:heading_link" role="doc-noteref"><a href="#fn:heading_link" class="footnote" rel="footnote">10</a></sup> <a href="#fnref:links_on_the_web" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    <li id="fn:links_on_the_web">
+      <p>Traversing content on the web by selecting hyperlinks commonly entails blindly <em>jumping</em> and landing at the top of the page. Even if a sentence references a particular part of another webpage, a link cannot point directly to it.<sup id="fnref:heading_link"><a href="#fn:heading_link" class="footnote" rel="footnote" role="doc-noteref">10</a></sup> <a href="#fnref:links_on_the_web" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:2003_prototype" role="doc-endnote">
+    <li id="fn:2003_prototype">
       <p>Note that the link direction is unclear, and the position and overlap of the windows are not convenient. <a href="#fnref:2003_prototype" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:3D_prototype" role="doc-endnote">
+    <li id="fn:3D_prototype">
       <p>One problem with this 3D version is that there is no obvious way of navigating the space. For reading and editing a document, it could be useful to snap into a full-frame view of a particular part of a document. <a href="#fnref:3D_prototype" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:sworfing" role="doc-endnote">
+    <li id="fn:sworfing">
       <p>The idea of viewing documents side-by-side is solid, but having documents fly in and out of view as you move through the document is not. There should be an interaction step in which the content is only opened through deliberate action. <a href="#fnref:sworfing" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:front-end-design" role="doc-endnote">
+    <li id="fn:front-end-design">
       <p>a problem to which this research project aims to propose a solution. <a href="#fnref:front-end-design" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:heading_link" role="doc-endnote">
+    <li id="fn:heading_link">
       <p>It is possible to use anchor links that point to a specific section of a webpage, but it relies on the creator applying an HTML id attribute to the section title (see <a href="https://stackoverflow.com/questions/15481911/linking-to-a-specific-part-of-a-web-page">Stack Overflow</a>). <a href="#fnref:heading_link" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

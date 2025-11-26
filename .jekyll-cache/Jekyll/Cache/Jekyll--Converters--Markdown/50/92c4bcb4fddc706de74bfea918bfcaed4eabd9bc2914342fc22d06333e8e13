@@ -1,4 +1,4 @@
-I"ô<p>Ted Nelson envisioned the docuverse implemented with bidirectional visual links that have been explored in many models and prototypes:</p>
+I"á<p>Ted Nelson envisioned the docuverse implemented with bidirectional visual links that have been explored in many models and prototypes:</p>
 
 <p><img src="assets/nelson_11-4.png" alt="" /></p>
 
@@ -24,7 +24,7 @@
 
 <p><em>Image source: Nelson (2016)</em></p>
 
-<p>As discussed in <a href="03">entry 03</a>, working with documents side-by-side and visual links is beneficial. One of the benefits is that content included in one document from another (i.e., transclusion) is directly and visually available for cross-examination. Direct access to the original context enables the ability to assess whether the meaning conveyed in the original document has been misconstrued in other documents. On the Web, links are one-directional, and the linked documents (if at all) take the form of previews (of the <em>web page</em>, not a particular content item)<sup id="fnref:links_on_the_web" role="doc-noteref"><a href="#fn:links_on_the_web" class="footnote" rel="footnote">1</a></sup> as the cursor hovers on a hyperlink.</p>
+<p>As discussed in <a href="03">entry 03</a>, working with documents side-by-side and visual links is beneficial. One of the benefits is that content included in one document from another (i.e., transclusion) is directly and visually available for cross-examination. Direct access to the original context enables the ability to assess whether the meaning conveyed in the original document has been misconstrued in other documents. On the Web, links are one-directional, and the linked documents (if at all) take the form of previews (of the <em>web page</em>, not a particular content item)<sup id="fnref:links_on_the_web"><a href="#fn:links_on_the_web" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> as the cursor hovers on a hyperlink.</p>
 
 <p><img src="assets/wikipedia_hover_preview.png" alt="" /></p>
 
@@ -79,7 +79,7 @@ An improvement would be landing at the particular linked part of a document:
 <h2 id="endnotes">Endnotes</h2>
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:links_on_the_web" role="doc-endnote">
+    <li id="fn:links_on_the_web">
       <p>Traversing content on the Web by selecting hyperlinks commonly entails blindly <em>jumping</em> and landing at the top of the page:Â <a href="#fnref:links_on_the_web" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

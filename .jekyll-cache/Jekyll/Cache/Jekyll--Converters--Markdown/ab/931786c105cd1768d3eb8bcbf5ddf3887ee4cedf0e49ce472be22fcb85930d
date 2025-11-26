@@ -1,4 +1,4 @@
-I"T<p>Questions are:</p>
+I".<p>Questions are:</p>
 <ul>
   <li>What constitutes a document?</li>
   <li>How are links attached?</li>
@@ -18,14 +18,14 @@
 
 <h3 id="1-transclusion--">1. Transclusion —-</h3>
 
-<p>Transclusion is the inclusion of (a part of) a document into another document.<sup id="fnref:form_of_transclusion" role="doc-noteref"><a href="#fn:form_of_transclusion" class="footnote" rel="footnote">1</a></sup> When a content item is reused in another document, a visual (transclusion-type) link is automatically created, offering a way to retrieve “the origins and context of quotations, excerpts and anthologized materials, and content transiting between versions” (Nelson 1999).</p>
+<p>Transclusion is the inclusion of (a part of) a document into another document.<sup id="fnref:form_of_transclusion"><a href="#fn:form_of_transclusion" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> When a content item is reused in another document, a visual (transclusion-type) link is automatically created, offering a way to retrieve “the origins and context of quotations, excerpts and anthologized materials, and content transiting between versions” (Nelson 1999).</p>
 
 <p>The image below shows the concept of transclusion on a technical level.</p>
 
 <p><img src="assets/link_types_02.png" alt="" /></p>
 
 <h3 id="2-taglink-">2. Taglink –#–</h3>
-<p>A taglink is any arbitrary conceptual connection created between (a part of) documents and can include a descriptive label (#Label) or remain empty (#). Utilizing the common usage of hashtags,<sup id="fnref:hashtag" role="doc-noteref"><a href="#fn:hashtag" class="footnote" rel="footnote">2</a></sup> taglinks enable the organization of links based on any taxonomy. Examples of taglinks are given below.</p>
+<p>A taglink is any arbitrary conceptual connection created between (a part of) documents and can include a descriptive label (#Label) or remain empty (#). Utilizing the common usage of hashtags,<sup id="fnref:hashtag"><a href="#fn:hashtag" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> taglinks enable the organization of links based on any taxonomy. Examples of taglinks are given below.</p>
 
 <p><img src="assets/link_types_03.png" alt="" /></p>
 
@@ -39,10 +39,10 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:form_of_transclusion" role="doc-endnote">
+    <li id="fn:form_of_transclusion">
       <p>Content by convention inserted between quotation marks or in a block quote, for example, is a <em>form</em> of transclusion. <a href="#fnref:form_of_transclusion" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:hashtag" role="doc-endnote">
+    <li id="fn:hashtag">
       <p>The word hashtag refers to the symbol # (as popularized by Twitter) and combines the word hash from the hash mark and the word tag as it is used to label something belonging to a specific category. <a href="#fnref:hashtag" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
